@@ -1,0 +1,14 @@
+.Tag {
+    background: #1d242a;
+    margin: 5px;
+    height: 33%;
+    width: 20%;
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+    border-radius:10px;
+    display: inline-block;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}

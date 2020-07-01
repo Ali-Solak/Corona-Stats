@@ -1,0 +1,13 @@
+.blox {
+    position: relative;
+    top: -150px;
+    padding: 0;
+    margin: 0;
+}
+.info{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    align-content: center;
+}
