@@ -34,8 +34,8 @@ const countryChart = (props) => {
         ],
         options: {
             chart: {
-                height: "auto",
-                width: "auto",
+                height: "50%",
+                width: "50%",
                 type: 'line',
                 zoom: {
                     enabled: true
