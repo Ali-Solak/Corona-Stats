@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 
 import classes from './Toolbar.css';
 import DrawerToggle from "../sideDrawer/DrawerToggle/DrawerToggle";
@@ -6,7 +6,6 @@ import Logo from "../../UI/Logo/Logo";
 
 
 const toolbar = (props) => {
-
 
     return (
         <React.Fragment>

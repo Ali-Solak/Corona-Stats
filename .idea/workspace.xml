@@ -11,61 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc395909-f703-4422-8ae2-f2315be1afd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/virus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/virus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Dropdown/Dropdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Dropdown/Dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Logo/Logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Logo/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Switch/Switch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Switch/Switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/countryChart/countryChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/mapChart/mapChart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/mapChart/mapChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/tags/tag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/tags/tag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/tags/tagBox/tagBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charts/tags/tagBox/tagBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/Toolbar/Toolbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/Toolbar/Toolbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/navItems/NavigationItems.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/navItems/NavigationItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/navItems/navItem/NavigationItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/navItems/navItem/NavigationItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/sideDrawer/DrawerToggle/DrawerToggle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/sideDrawer/DrawerToggle/DrawerToggle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/sideDrawer/SideDrawer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/sideDrawer/SideDrawer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ChartRenderer/ChartRenderer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ChartRenderer/ChartRenderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/DetailedView/DetailedView.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/DetailedView/DetailedView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/layout/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/layout/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceAxios/ServiceAxios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/countryChart/countryChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charts/countryChart/countryChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/tags/tag.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charts/tags/tag.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/tags/tagBox/tagBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charts/tags/tagBox/tagBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation/Toolbar/Toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation/Toolbar/Toolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/ChartRenderer/ChartRenderer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/ChartRenderer/ChartRenderer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/DetailedView/DetailedView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/DetailedView/DetailedView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,15 +53,18 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -167,6 +124,27 @@
       <workItem from="1593517993148" duration="4346000" />
       <workItem from="1593529019812" duration="621000" />
       <workItem from="1593602187440" duration="4656000" />
+      <workItem from="1593608681858" duration="9000" />
+      <workItem from="1593668056238" duration="297000" />
+      <workItem from="1593677105909" duration="1715000" />
+      <workItem from="1593682258660" duration="2709000" />
+      <workItem from="1593687581109" duration="164000" />
+      <workItem from="1593690045631" duration="7000" />
+      <workItem from="1594020691327" duration="51000" />
+      <workItem from="1596295834851" duration="440000" />
+      <workItem from="1598627943567" duration="1535000" />
+      <workItem from="1598629577631" duration="82000" />
+      <workItem from="1598730233908" duration="1137000" />
+      <workItem from="1602185050330" duration="242000" />
+      <workItem from="1602496912330" duration="5000" />
+      <workItem from="1602856026524" duration="86000" />
+      <workItem from="1605554998607" duration="48000" />
+      <workItem from="1605989913817" duration="129000" />
+      <workItem from="1606476956131" duration="8000" />
+      <workItem from="1607905571608" duration="77000" />
+      <workItem from="1607980880368" duration="28000" />
+      <workItem from="1608300618944" duration="187000" />
+      <workItem from="1608468704777" duration="11000" />
     </task>
     <servers />
   </component>
@@ -186,41 +164,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593189193854">
+    <state x="638" y="305" key="#ESLint" timestamp="1598628049156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593189193854" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593089685389">
+    <state x="638" y="305" key="#ESLint/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1598628049156" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1598731382266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593089685389" />
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1593607847525">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598731382266" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1598731382266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593607847525" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1593607847524">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598731382266" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1598731382266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593607847524" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1593607847524">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598731382266" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1598731382266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593607847524" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1593607847525">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598731382266" />
+    <state x="257" y="115" key="SettingsEditor" timestamp="1605990040684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593607847525" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1593607255266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593607255266" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593277589033">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1593277589033" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593604216101">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593604216101" />
+    <state x="257" y="115" key="SettingsEditor/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1605990040684" />
   </component>
 </project>

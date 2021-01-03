@@ -5,7 +5,6 @@ import TagBox from '../../components/charts/tags/tagBox/tagBox';
 import Spinner from "../../components/UI/Spinner/Spinner";
 import Dropdown from "../../components/UI/Dropdown/Dropdown";
 import CountryChart from '../../components/charts/countryChart/countryChart';
-import ServiceAxios from "../../ServiceAxios/ServiceAxios";
 
 class DetailedView extends Component {
 
@@ -71,7 +70,9 @@ class DetailedView extends Component {
                     <Tag titel={"Total Cases Today:"} spinner={spinner}>{this.state.total.todayCases}</Tag>
                 </TagBox>
                 <Dropdown countries={this.state.countries} handleChange={this.handleChange}/>
+                <div style={{display: "flex", justifyContent: "center"}}>
                 {histChart}
+                </div>
             </div>
         );
     }

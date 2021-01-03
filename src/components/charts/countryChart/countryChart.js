@@ -34,17 +34,18 @@ const countryChart = (props) => {
         ],
         options: {
             chart: {
-                height: 1000,
+                height: "auto",
+                width: "auto",
                 type: 'line',
                 zoom: {
-                    enabled: false
+                    enabled: true
                 }
             },
             dataLabels: {
                 enabled: false
             },
             stroke: {
-                curve: 'straight'
+                curve: 'smooth'
             },
             title: {
                 text: 'Change in the last 30 Days',
@@ -67,7 +68,7 @@ const countryChart = (props) => {
 
     return (
         <div id="chart">
-            <ReactApexChart options={dataSource.options} series={dataSource.series} type="line" height={600} width={1200}/>
+            <ReactApexChart options={dataSource.options} series={dataSource.series} type="line"/>
         </div>
     );
 
