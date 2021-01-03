@@ -34,7 +34,7 @@ const countryChart = (props) => {
         ],
         options: {
             chart: {
-                height: "50%",
+                height: "1000",
                 width: "50%",
                 type: 'line',
                 zoom: {
@@ -68,7 +68,7 @@ const countryChart = (props) => {
 
     return (
         <div id="chart">
-            <ReactApexChart options={dataSource.options} series={dataSource.series} type="line"/>
+            <ReactApexChart options={dataSource.options} series={dataSource.series} type="line" height="500"/>
         </div>
     );
 
